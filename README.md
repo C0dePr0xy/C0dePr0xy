@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C0dePr0xy
-- 👀 I’m interested in Operating Systems and 3D modeling
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on React OS and mabye some smaller projects
+- 👀 I’m interested in Operating Systems and 3D modeling as well as coding.
+- 🌱 I’m currently learning C++
+- 💞️ I’m looking to collaborate on KDE Plasma
 - 📫 How to reach me (ericg36@outlook.com)
 
 <!---
