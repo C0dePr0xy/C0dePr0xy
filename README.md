@@ -1,7 +1,7 @@
 # Hi there, I'm Eric Guerra 👋
-`My main screen name is "C0dePr0xy", I go by "Spicy_P." on Discord though. I really love learning and meeting new and interesting people, one of my main dreams is to someday contribute to KDE Plasma because it is my favorite Desktop Environment in Linux. 
+My main screen name is "C0dePr0xy", I go by "Spicy_P." on Discord though. I really love learning and meeting new and interesting people, one of my main dreams is to someday contribute to KDE Plasma because it is my favorite Desktop Environment in Linux. 
 
-I first got into computers in 2nd grade due to curiosity. Most of my experience (initially) came from breaking things 😅. Nowadays, I try my best to occasionally creep into online forums to help someone with a tech-related question. In my free-time, I usually poke around and tinker with my computers and C++ programs.`
+I first got into computers in 2nd grade due to curiosity. Most of my experience (initially) came from breaking things 😅. Nowadays, I try my best to occasionally creep into online forums to help someone with a tech-related question. In my free-time, I usually poke around and tinker with my computers and C++ programs.
 
 ## About Me
 - 🌱 I’m currently learning C++ while taking Khan Academy math courses and some other Codecademy courses.
