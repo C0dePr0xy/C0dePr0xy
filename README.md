@@ -7,7 +7,7 @@ I first got into computers in 2nd grade due to curiosity. Most of my experience 
 - 🌱 I’m currently learning C++ while taking Khan Academy math courses and some other Codecademy courses.
 - 👯 I’m looking to collaborate on open source projects (I'm new to the world of contributing in GitHub).
 - 💬 Ask me about C++, Python, Lua, and JavaScript.
-- 📫 How to reach me: [ericguerra141@example.com](mailto:ericguerra141@gmail.com)
+- 📫 How to reach me: [ericguerra141@gmail.com](mailto:ericguerra141@gmail.com)
 - ⚡ Fun fact: I love learning and builing computers, I've been learning Russian for about 1 year now!
 
 ## GitHub Stats
