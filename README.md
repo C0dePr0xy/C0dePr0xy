@@ -8,7 +8,7 @@ I first got into computers in 2nd grade due to curiosity. Most of my experience 
 - 👯 I’m looking to collaborate on open source projects (I'm new to the world of contributing in GitHub).
 - 💬 Ask me about C++, Python, Lua, and JavaScript.
 - 📫 How to reach me: [ericguerra141@example.com](mailto:ericguerra141@gmail.com)
-- ⚡ Fun fact: I love learning and builing computers, I've been learning Russian🇷🇺 for about 1 year now!
+- ⚡ Fun fact: I love learning and builing computers, I've been learning Russian 🇷🇺 for about 1 year now!
 
 ## GitHub Stats
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
