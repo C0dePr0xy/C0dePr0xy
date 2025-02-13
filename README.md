@@ -11,10 +11,10 @@ I first got into computers in 2nd grade due to curiosity. Most of my experience 
 - ⚡ Fun fact: I love learning and builing computers, I've been learning Russian for about 1 year now!
 
 ## GitHub Stats
-![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=C0dePr0xy&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=C0dePr0xy&layout=compact&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/eric-guerra-281906258/)
