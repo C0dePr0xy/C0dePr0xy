@@ -3,8 +3,6 @@
 ### Things I Like 👍
 - Productivity
 - Efficiency
-- Strong Relationships
-- Honesty
 - Computers
 - Black Coffee
 - C++
@@ -21,11 +19,7 @@
 - Java
 - Procrastinating
 - Driving
-- Complainers
 - Vibe "Coders"
-- Cheating
-- Liers
-- Windows
 
 ### Toxic Relationships ❤️‍🩹
 - macOS
