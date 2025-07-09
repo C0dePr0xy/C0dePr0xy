@@ -5,7 +5,7 @@
 - Efficiency
 - Computers
 - Black Coffee
-- C++
+- C/C++
 - Proplem Solving
 - Math
 - Reading
