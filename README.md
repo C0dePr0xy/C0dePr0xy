@@ -24,5 +24,7 @@
 ### Toxic Relationships ❤️‍🩹
 - macOS
 - Windows
+### Scary ☠️
+- Women <----👩
 
 Thank you for checking out my profile! 🥳
