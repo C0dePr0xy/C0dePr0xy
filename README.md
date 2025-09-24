@@ -12,6 +12,7 @@
 - 8Hr Sleep
 - Fitness
 - Linux Distributions
+- Anime
 
 ### Things I Don't Like 👎
 - People
@@ -24,6 +25,7 @@
 ### Toxic Relationships ❤️‍🩹
 - macOS
 - Windows
+- Video Games
 ### Scary ☠️
 - Women <----👩
 
