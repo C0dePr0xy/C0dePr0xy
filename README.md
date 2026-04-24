@@ -9,7 +9,7 @@
 - Proplem Solving
 - Math
 - Reading
-- 8Hr Sleep
+- 6Hr Sleep
 - Fitness
 - Linux Distributions
 - Anime
